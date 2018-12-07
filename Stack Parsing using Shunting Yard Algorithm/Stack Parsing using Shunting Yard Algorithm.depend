@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1544172384 source:c:\users\jit\documents\codeblocks\stack parsing\stack parsing using shunting yard algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1529409301 c:\users\jit\documents\codeblocks\stack parsing\stack parsing using shunting yard algorithm\main.h
+	<stdio.h>
+	<stdlib.h>
+
+1529413288 source:c:\users\jit\documents\codeblocks\stack parsing\stack parsing using shunting yard algorithm\stack.h
+
+1529413288 c:\users\jit\documents\codeblocks\stack parsing\stack parsing using shunting yard algorithm\stack.h
+
+1529412263 c:\users\jit\documents\codeblocks\stack parsing\stack parsing using shunting yard algorithm\untitled1.h
+
+1529412263 source:c:\users\jit\documents\codeblocks\stack parsing\stack parsing using shunting yard algorithm\untitled1.h
+
+1529413848 source:c:\users\jit\documents\codeblocks\stack parsing\stack parsing using shunting yard algorithm\stack.c
+	"stack.h"
+
